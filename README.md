@@ -9,10 +9,10 @@ A code base for performing metaphor detection using neural models that incorpora
 ## Credits
 
 Credits to my co-authors:
-@kmalhotra30
-@gkudva96
-@vovamedentsiy
-@eshutova
+@[kmalhotra30](https://github.com/kmalhotra30)<br/>
+@[gkudva96](https://github.com/gkudva96)<br/>
+@[vovamedentsiy](https://github.com/vovamedentsiy)<br/> 
+@[eshutova](https://github.com/eshutova)<br/>
 
 ## License
 
