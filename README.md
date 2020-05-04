@@ -6,7 +6,7 @@ The two sequence labelling models implemented are:
 2.   BERT-base-cased followed by a linear classification layer and softmax.
 
 Discourse-level information is included through a discourse vector concatenated to the input of the linear classification layer.
-We define discourse through a window of size <i>2k+1</i>i>, with <k>k=0</k> including only the immediate sentential context.
+We define discourse through a window of size <i>2k+1</i>, with <i>k=0</i> including only the immediate sentential context.
 
 ## Installation
 
