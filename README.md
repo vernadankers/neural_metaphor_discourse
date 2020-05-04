@@ -12,6 +12,12 @@ We define discourse through a window of size <i>2k+1</i>, with <i>k=0</i> includ
 
 ## Usage
 
+```
+python main.py --model "elmo" | "bert" --attention "general" | "hierarchical"
+               --seed <int> --k <int> --lr <float> --epochs <int> --batch_size <int>
+               --meta_train <filename> --meta_dev <filename> --meta_test <filename> --output <filename> 
+```
+
 ## Credits
 
 Credits to my co-authors:<br/>
